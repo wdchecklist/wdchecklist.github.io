@@ -36,6 +36,10 @@
 
         *Idéalement, les deux parents seraient A/A, mais plusieurs combinaisons sont acceptables. D'une façon générale, un des parents devrait être A/A.*
 
+    -   Nanisme hypophysaire : au moins un des parents est **sain** (NH-0)
+
+        *Un mariage entre porteurs sains peut produire des chiots atteints.*
+
 -   En cas de doute, je reviens sur mes choix.
 
     *Cela demande un courage certain, mais le sacrifice en vaut la peine. Revenir sur son choix d'éleveur si la confiance est mise en doute est parfois nécessaire. En effet, si l'on s'est trompé plus tôt, ce n'est qu'au moment de s'engager mutuellement qu'on peut confirmer si les décisions précédentes étaient justes, et corriger en se tournant vers un autre élevage. Note importante : Ce n'est pas parce qu'un élevage refuse de vous vendre un chiot qu'il est peu fiable ; cela montre au contraire en général que l'éleveur n'a pas cerné en vous ce qui lui semble important pour l'équilibre particulier du CLT. Dans ce cas, c'est plutôt sur le choix de la race par rapport à son propre caractère qu'il faut se remettre en question --surtout si plusieurs éleveurs se rejoignent sur ce point\ !*

@@ -53,6 +53,10 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
     *Les dysplasies du coude et de la hanche sont **partiellement** héréditaires, et peuvent contribuer à des douleurs articulaires chez le chien au fil du temps. Elle ne peut pas être dépistée de façon fiable à la naissance, mais des radios de dépistage permettent de sélectionner les reproducteurs qui ont le moins de chances de transmettre la part héréditaire.*
 
+-   Je me renseigne sur le "nanisme hypophysaire".
+
+    *L'hypophyse produit l'hormone de croissance. Le nanisme hypophysaire est une défaillance de l'hypophyse qui cause de multiples problèmes de santé liés à la croissance et au développement du chien. Elle est entièrement d'origine génétique, peut être dépistée de façon fiable, et évitée par la sélection des reproducteurs.*
+
 -   Je m'informe auprès de mon vétérinaire sur l'intérêt de la stérilisation
 
     *Beaucoup croient encore --à tort-- qu'il convient de faire faire des petits à son chien pour qu'il soit en bonne santé. C'est faux, un chien stérilisé n'a aucun problème de santé s'il n'a jamais reproduit. Le meilleur interlocuteur à ce sujet reste votre vétérinaire. (S'il vous déconseille la stérilisation, demandez lui ses raisons !)*

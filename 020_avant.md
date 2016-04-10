@@ -1,7 +1,9 @@
 
 # Quelques temps avant (quelques mois)
 
-*Une fois les informations utiles prises en considération, et maintenant informé, il est temps de décider si le CLT est effectivement le chien qui vous convient (et si vous pensez lui convenir), et auprès de quel éleveur vous souhaitez vous engager. Inutile de presser trop cette décision\ : prendre le temps de choisir à tête reposée votre élevage peut vous procurer plus de confiance et de tranquillité pour la suite, et bien sûr augmenter les chances d'avoir un chien en bonne santé\ !*
+*Une fois les informations utiles prises en considération, et maintenant informé, il est temps de décider si le CLT est effectivement le chien qui vous convient (et si vous pensez lui convenir), et auprès de quel éleveur vous souhaitez vous engager.*
+
+*Inutile de presser trop cette décision\ : prendre le temps de choisir à tête reposée votre élevage peut vous procurer plus de confiance et de tranquillité pour la suite, et bien sûr augmenter les chances d'avoir un chien en bonne santé\ !*
 
 ## Je choisis mon élevage et je lui fais savoir {-}
 

@@ -10,6 +10,10 @@ MDS := 000_pre.md 010_avant.md 020_avant.md 030_achat.md 040_apres.md 999_post.m
 chien-loup-check-list.pdf : $(IMGS) $(DOTS) $(MDS)
 	pandoc --smart --filter pandoc-citeproc -No $@ $(MDS)
 
+index.html :  $(IMGS) $(DOTS) $(MDS)
+	pandoc --smart --standalone --filter pandoc-citeproc -No $@ $(MDS)
+
+
 # Pattern rules
 %.pdf : %.md
 	pandoc --smart --filter pandoc-citeproc -No $@ $<

@@ -20,7 +20,7 @@
 
 ## Je m'engage, et j'engage l'éleveur sur une portée {-}
 
-*Avant de s'engager, une dernière étape qui peut faire faire marche arrière : confirmer que l'impression qu'on a eu était la bonne et que l'éleveur choisi est effectivement fiable.*
+*Avant de s'engager, une dernière étape qui peut faire faire marche arrière\ : confirmer que l'impression qu'on a eu était la bonne et que l'éleveur choisi est effectivement fiable.*
 
 -   Si une portée en particulier m'intéresse, je le fais savoir.
 
@@ -30,19 +30,19 @@
 
     *Même si votre confiance est acquise, l'éleveur doit accepter de vous présenter les justificatifs des tests et dépistages pratiqués sur les deux parents.*
 
-    -   Myélopathie: au moins un des parents est **sain** (ND/ND)
+    -   Myélopathie\ : au moins un des parents est **sain** (ND/ND)
 
-    -   Dysplasie: aucun des parents n'est classé D.
+    -   Dysplasie\ : aucun des parents n'est classé D.
 
         *Idéalement, les deux parents seraient A/A, mais plusieurs combinaisons sont acceptables. D'une façon générale, un des parents devrait être A/A.*
 
-    -   Nanisme hypophysaire : au moins un des parents est **sain** (NH-0)
+    -   Nanisme hypophysaire\ : au moins un des parents est **sain** (NH-0)
 
         *Un mariage entre porteurs sains peut produire des chiots atteints.*
 
 -   En cas de doute, je reviens sur mes choix.
 
-    *Cela demande un courage certain, mais le sacrifice en vaut la peine. Revenir sur son choix d'éleveur si la confiance est mise en doute est parfois nécessaire. En effet, si l'on s'est trompé plus tôt, ce n'est qu'au moment de s'engager mutuellement qu'on peut confirmer si les décisions précédentes étaient justes, et corriger en se tournant vers un autre élevage. Note importante : Ce n'est pas parce qu'un élevage refuse de vous vendre un chiot qu'il est peu fiable ; cela montre au contraire en général que l'éleveur n'a pas cerné en vous ce qui lui semble important pour l'équilibre particulier du CLT. Dans ce cas, c'est plutôt sur le choix de la race par rapport à son propre caractère qu'il faut se remettre en question --surtout si plusieurs éleveurs se rejoignent sur ce point\ !*
+    *Cela demande un courage certain, mais le sacrifice en vaut la peine. Revenir sur son choix d'éleveur si la confiance est mise en doute est parfois nécessaire. En effet, si l'on s'est trompé plus tôt, ce n'est qu'au moment de s'engager mutuellement qu'on peut confirmer si les décisions précédentes étaient justes, et corriger en se tournant vers un autre élevage. Note importante\ : Ce n'est pas parce qu'un élevage refuse de vous vendre un chiot qu'il est peu fiable\ ; cela montre au contraire en général que l'éleveur n'a pas cerné en vous ce qui lui semble important pour l'équilibre particulier du CLT. Dans ce cas, c'est plutôt sur le choix de la race par rapport à son propre caractère qu'il faut se remettre en question --surtout si plusieurs éleveurs se rejoignent sur ce point\ !*
 
 ## Je prépare la maison {-}
 
@@ -60,4 +60,4 @@
 
 -   Je prépare mon emploi du temps
 
-    *Dans les premiers mois, tout l'apprentissage que fera le chiot est structurant : il porte ses fruits sur la vie entière du chien. Dans la plupart des cas, un atout important pour cela est de se rendre régulièrement en club canin pour travailler avec le chiot sur sa socialisation, son attention et son éducation. Avant d'accueillir le chiot, prévoir le (ou les) créneau(x) hebdomadaire(s) et décider quel membre de la famille participera à ces activités.*
+    *Dans les premiers mois, tout l'apprentissage que fera le chiot est structurant\ : il porte ses fruits sur la vie entière du chien. Dans la plupart des cas, un atout important pour cela est de se rendre régulièrement en club canin pour travailler avec le chiot sur sa socialisation, son attention et son éducation. Avant d'accueillir le chiot, prévoir le (ou les) créneau(x) hebdomadaire(s) et décider quel membre de la famille participera à ces activités.*

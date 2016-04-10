@@ -14,21 +14,21 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 -   Je me suis rapproché de plusieurs propriétaires de CLT issus de différents élevages pour en parler avec eux.
 
     *Chaque CLT, et chaque maître, ont leur particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
-    -   Maître:     \hfil __________________\hfill \
-        Chien:      \hfil __________________\hfill \
-        Élevage:    \hfil __________________\hfill
-    -   Maître:     \hfil __________________\hfill \
-        Chien:      \hfil __________________\hfill \
-        Élevage:    \hfil __________________\hfill
-    -   Maître:     \hfil __________________\hfill \
-        Chien:      \hfil __________________\hfill \
-        Élevage:    \hfil __________________\hfill
-    -   Maître:     \hfil __________________\hfill \
-        Chien:      \hfil __________________\hfill \
-        Élevage:    \hfil __________________\hfill
-    -   Maître:     \hfil __________________\hfill \
-        Chien:      \hfil __________________\hfill \
-        Élevage:    \hfil __________________\hfill
+    -   Maître\ :     \hfil __________________\hfill \
+        Chien\ :      \hfil __________________\hfill \
+        Élevage\ :    \hfil __________________\hfill
+    -   Maître\ :     \hfil __________________\hfill \
+        Chien\ :      \hfil __________________\hfill \
+        Élevage\ :    \hfil __________________\hfill
+    -   Maître\ :     \hfil __________________\hfill \
+        Chien\ :      \hfil __________________\hfill \
+        Élevage\ :    \hfil __________________\hfill
+    -   Maître\ :     \hfil __________________\hfill \
+        Chien\ :      \hfil __________________\hfill \
+        Élevage\ :    \hfil __________________\hfill
+    -   Maître\ :     \hfil __________________\hfill \
+        Chien\ :      \hfil __________________\hfill \
+        Élevage\ :    \hfil __________________\hfill
 
 
 
@@ -36,11 +36,13 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
     *Se renseigner auprès des éleveurs est aussi un bon moyen de prendre du recul sur les propos des maîtres de CLT avec lesquels on discute.*
 
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
+    *Ces visites doivent être uniquement des "prises de contact" pour s'informer\ ! *
+
+    *   Élevage\ : ________________________
+    *   Élevage\ : ________________________
+    *   Élevage\ : ________________________
+    *   Élevage\ : ________________________
+    *   Élevage\ : ________________________
 
 ### Sur la santé du CLT {-}
 *Comme tous les chiens, les CLT est sujet à des maladies, et des malformations éventuelles, qui peuvent être évitées (ou rendues aussi rares que possible) grâce à une sélection rigoureuse de la part de l'éleveur.*
@@ -59,7 +61,7 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
 -   Je m'informe auprès de mon vétérinaire sur l'intérêt de la stérilisation
 
-    *Beaucoup croient encore --à tort-- qu'il convient de faire faire des petits à son chien pour qu'il soit en bonne santé. C'est faux, un chien stérilisé n'a aucun problème de santé s'il n'a jamais reproduit. Le meilleur interlocuteur à ce sujet reste votre vétérinaire. (S'il vous déconseille la stérilisation, demandez lui ses raisons !)*
+    *Beaucoup croient encore --à tort-- qu'il convient de faire faire des petits à son chien pour qu'il soit en bonne santé. C'est faux, un chien stérilisé n'a aucun problème de santé s'il n'a jamais reproduit. Le meilleur interlocuteur à ce sujet reste votre vétérinaire. (S'il vous déconseille la stérilisation, demandez lui ses raisons\ !)*
 
 ## Je me renseigne sur le monde du chien {-}
 
@@ -68,18 +70,18 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
     *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT).*
 
-    -   Club:__________________
+    -   Club\ :__________________
 
-        Adresse:__________________
-    -   Club:__________________
+        Adresse\ :__________________
+    -   Club\ :__________________
 
-        Adresse:__________________
+        Adresse\ :__________________
 
-    -   Club:__________________
+    -   Club\ :__________________
 
-        Adresse:__________________
+        Adresse\ :__________________
 
--   Je m'informe auprès de mon vétérinaire sur:
+-   Je m'informe auprès de mon vétérinaire sur\ :
     -   L'identification par puce,
     -   Le carnet de santé Européen
 

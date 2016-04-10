@@ -1,6 +1,7 @@
 
 # Quelques temps avant (quelques mois)
 
+*Une fois les informations utiles prises en considération, et maintenant informé, il est temps de décider si le CLT est effectivement le chien qui vous convient (et si vous pensez lui convenir), et auprès de quel éleveur vous souhaitez vous engager. Inutile de presser trop cette décision\ : prendre le temps de choisir à tête reposée votre élevage peut vous procurer plus de confiance et de tranquillité pour la suite, et bien sûr augmenter les chances d'avoir un chien en bonne santé\ !*
 
 ## Je choisis mon élevage et je lui fais savoir {-}
 
@@ -17,6 +18,10 @@
 -   Les mariages qu'il choisit sont basés sur la santé et le tempérament des chiots à venir, pas seulement leur aspect.
 
     *Il très important que toutes les précautions soient prises pour que les chiots aient le plus de chances possibles de rendre leur famille heureuse et d'être eux-mêmes heureux et en bonne santé. L'allure du CLT ne peut pas être le seul critère, un éleveur responsable prend en compte la santé des reproducteurs pour produire des chiots qui ont aussi peu de chances que possible de poser des problèmes de santé par la suite.*
+
+-   L'élevage prend en compte la possibilité d'un échec
+
+    *Dès le jour de l'adoption, **le maître est seul responsable de son chien**, de son bien-être, de sa santé, et de son équilibre. Toutefois, les éleveurs les plus sérieux peuvent vous aider par la suite\ : il vous conseilleront sur l'éducation du chien, se renseigneront sur votre fiabilité, et parfois même vous assisteront pour replacer le chien, si vous échouez.*
 
 ## Je m'engage, et j'engage l'éleveur sur une portée {-}
 

@@ -36,7 +36,7 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
     *Se renseigner auprès des éleveurs est aussi un bon moyen de prendre du recul sur les propos des maîtres de CLT avec lesquels on discute.*
 
-    *Ces visites doivent être uniquement des "prises de contact" pour s'informer\ ! *
+    *Ces visites doivent être uniquement des "prises de contact" pour s'informer\ ! Pour ne pas être tenté de s'engager trop tôt, il est prudent de ne prendre avec soi aucun moyen de règlement --pour le moment--.*
 
     *   Élevage\ : ________________________
     *   Élevage\ : ________________________

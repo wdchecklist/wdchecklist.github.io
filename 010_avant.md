@@ -77,16 +77,16 @@ Chien :\    ____________________________\
 
     *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT).*
 
-    -   Club :__________________
+    -   Club : __________________
 
-        Adresse :__________________
-    -   Club :__________________
+        Adresse : __________________
+    -   Club : __________________
 
-        Adresse :__________________
+        Adresse : __________________
 
-    -   Club :__________________
+    -   Club : __________________
 
-        Adresse :__________________
+        Adresse : __________________
 
 -   Je m'informe auprès de mon vétérinaire sur :
     -   L'identification par puce,

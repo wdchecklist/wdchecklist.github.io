@@ -7,10 +7,12 @@ DOTS := $(addprefix $(IMGDIR)/,)
 MDS := 000_pre.md 010_avant.md 020_avant.md 030_achat.md 040_apres.md 999_post.md
 
 # main target
-chien-loup-check-list.pdf : $(IMGS) $(DOTS) $(MDS)
+all : check-list-latest.pdf cl.html
+
+check-list-latest.pdf : $(IMGS) $(DOTS) $(MDS)
 	pandoc --smart --filter pandoc-citeproc -No $@ $(MDS)
 
-index.html :  $(IMGS) $(DOTS) $(MDS)
+cl.html :  $(IMGS) $(DOTS) $(MDS)
 	pandoc --smart --standalone --filter pandoc-citeproc -No $@ $(MDS)
 
 
@@ -29,6 +31,6 @@ $(IMGDIR):
 %:
 	touch $@
 
-.PHONY : clean
+.PHONY : clean all
 clean:
 	rm -f $(DOTS)

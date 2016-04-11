@@ -7,7 +7,7 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 ## Je me renseigne sur les particularités du CLT {-}
 
 ### sur son caractère et son allure {-}
--   Je suis allé sur le site du [CBEI](www.cbei.fr) et j'ai consulté attentivement la fiche et le standard du chien-loup tchécoslovaque.
+-   Je suis allé sur le site du [CBEI](http://www.cbei.fr) et j'ai consulté attentivement la fiche et le standard du chien-loup tchécoslovaque.
 
     *Le "standard" est le document qui recense les caractéristiques d'une race. Le connaître au moins en partie permet d'avoir une base sur laquelle échanger avec les propriétaires (avertis) comme avec les éleveurs.*
 
@@ -89,7 +89,7 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
 -   Je me renseigne sur le rôle du club de race
 
-    *Le club de race dont dépend la race CLT est le [CBEI](www.cbei.fr), "Club des bergers de l'est et Italiens", qui s'intéresse à une vingtaine de races de chiens de berger.*
+    *Le club de race dont dépend la race CLT est le [CBEI](http://www.cbei.fr), "Club des bergers de l'est et Italiens", qui s'intéresse à une vingtaine de races de chiens de berger.*
 
 ### Et sur les chiens-loups en général {-}
 *Il existe plusieurs races de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois races sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*

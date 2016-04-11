@@ -35,15 +35,18 @@
 
     *Même si votre confiance est acquise, l'éleveur doit accepter de vous présenter les justificatifs des tests et dépistages pratiqués sur les deux parents.*
 
-    -   Myélopathie\ : au moins un des parents est **sain** (ND/ND)
+    -   Nanisme hypophysaire\ : au moins un des parents est **sain**
+
+        *Un mariage entre porteurs sains peut produire des chiots atteints.*
+
+    -   Myélopathie\ : au moins un des parents est **sain**
+
+        *Différents laboratoires peuvent pratiquer les tests génétiques. Pour la myélopathie comme pour le nanisme hypophysaire, les notations sur les comptes-rendus de dépistage peuvent varier d'un laboratoire à un autre. En tous les cas, il ne faut pas se contenter d'un certificat établi par l'éleveur.*
 
     -   Dysplasie\ : aucun des parents n'est classé D.
 
         *Idéalement, les deux parents seraient A/A, mais plusieurs combinaisons sont acceptables. D'une façon générale, un des parents devrait être A/A.*
 
-    -   Nanisme hypophysaire\ : au moins un des parents est **sain** (NH-0)
-
-        *Un mariage entre porteurs sains peut produire des chiots atteints.*
 
 -   En cas de doute, je reviens sur mes choix.
 

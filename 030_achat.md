@@ -3,9 +3,9 @@
 
 *Le grand jour arrivé, et dans la joie d'accueillir le nouveau venu, il ne faut pas oublier quelques points indispensables.*
 
-*Sans que ce soit nécessairement dû à une malveillance, les documents peuvent se mélanger, ou manquer. Vérifier avec l'éleveur que tout est là (et que les informations sur les documents sont justes) évite de devoir corriger des documents par la suite et simplifie la vie pour tout le monde\ !*
+*Sans que ce soit nécessairement dû à une malveillance, les documents peuvent se mélanger, ou manquer. Vérifier avec l'éleveur que tout est là (et que les informations sur les documents sont justes) évite de devoir corriger des documents par la suite et simplifie la vie pour tout le monde !*
 
-*Quelle que soit la raison, un document manquant ou incorrect doit donner lieu à une correction. À vous et à votre éleveur de convenir ensemble de qui se chargera de la faire appliquer\ : vous êtes engagés ensemble dans cette adoption\ !*
+*Quelle que soit la raison, un document manquant ou incorrect doit donner lieu à une correction. À vous et à votre éleveur de convenir ensemble de qui se chargera de la faire appliquer : vous êtes engagés ensemble dans cette adoption !*
 
 ## Je vérifie les documents du chiot {-}
 

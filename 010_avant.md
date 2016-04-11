@@ -53,7 +53,9 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
 *   Je me renseigne sur la "Dysplasie" et sur les précautions à prendre pendant la croissance du chien.
 
-    *Les dysplasies du coude et de la hanche sont **partiellement** héréditaires, et peuvent contribuer à des douleurs articulaires chez le chien au fil du temps. Elle ne peut pas être dépistée de façon fiable à la naissance, mais des radios de dépistage permettent de sélectionner les reproducteurs qui ont le moins de chances de transmettre la part héréditaire.*
+    *Les dysplasies du coude et de la hanche sont héréditaires, et peuvent contribuer à des douleurs articulaires chez le chien au fil du temps. Elle ne peut pas être dépistée de façon fiable à la naissance, mais des radios de dépistage permettent de sélectionner les reproducteurs qui ont le moins de chances de transmettre la dysplasie.*
+
+    *Il est aussi de la responsabilité du maître de protéger les articulations pendant la croissance du chiot, en lui évitant les efforts excessifs, par exemple.*
 
 -   Je me renseigne sur le "nanisme hypophysaire".
 
@@ -92,9 +94,9 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
     *Le club de race dont dépend la race CLT est le [CBEI](http://www.cbei.fr), "Club des bergers de l'est et Italiens", qui s'intéresse à une vingtaine de races de chiens de berger.*
 
 ### Et sur les chiens-loups en général {-}
-*Il existe plusieurs races de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois races sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*
+*Il existe plusieurs types de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois types sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*
 
--   Je sais lesquelles de ces races sont reconnues par les autorités officielles
+-   Je sais lesquels de ces chiens-loups sont reconnus par les autorités officielles
 -   Je sais le but premier du CLT, et en quoi la sélection a été différente pour le CLS
 
 

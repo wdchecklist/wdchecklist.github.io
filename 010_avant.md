@@ -14,23 +14,28 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 -   Je me suis rapproché de plusieurs propriétaires de CLT issus de différents élevages pour en parler avec eux.
 
     *Chaque CLT, et chaque maître, ont leur particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
-    -   Maître :     \hfil __________________\hfill \
-        Chien :      \hfil __________________\hfill \
-        Élevage :    \hfil __________________\hfill
-    -   Maître :     \hfil __________________\hfill \
-        Chien :      \hfil __________________\hfill \
-        Élevage :    \hfil __________________\hfill
-    -   Maître :     \hfil __________________\hfill \
-        Chien :      \hfil __________________\hfill \
-        Élevage :    \hfil __________________\hfill
-    -   Maître :     \hfil __________________\hfill \
-        Chien :      \hfil __________________\hfill \
-        Élevage :    \hfil __________________\hfill
-    -   Maître :     \hfil __________________\hfill \
-        Chien :      \hfil __________________\hfill \
-        Élevage :    \hfil __________________\hfill
 
+---------- ------------------------------
+Maître :\   ____________________________\
+Élevage :\  ____________________________\
+Chien :\    ____________________________\
 
+Maître :\   ____________________________\
+Élevage :\  ____________________________\
+Chien :\    ____________________________\
+
+Maître :\   ____________________________\
+Élevage :\  ____________________________\
+Chien :\    ____________________________\
+
+Maître :\   ____________________________\
+Élevage :\  ____________________________\
+Chien :\    ____________________________\
+
+Maître :\   ____________________________\
+Élevage :\  ____________________________\
+Chien :\    ____________________________\
+---------- ------------------------------
 
 -   J'ai pris contact et rendu visite à plusieurs élevages pour m'informer.
 

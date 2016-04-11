@@ -1,4 +1,4 @@
-# À propos de ce document {-}
+# À propos de ce document
 
 La dernière version de ce document est disponible [sur le site de la check-list](http://wdchecklist.github.io/), au format HTML. [Une version PDF est également téléchargeable.](http://wdchecklist.github.io/check-list-latest.pdf)
 

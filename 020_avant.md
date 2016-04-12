@@ -1,4 +1,3 @@
-
 # Quelques temps avant (quelques mois)
 
 *Une fois les informations utiles prises en considération, et maintenant informé, il est temps de décider si le CLT est effectivement le chien qui vous convient (et si vous pensez lui convenir), et auprès de quel éleveur vous souhaitez vous engager.*
@@ -67,11 +66,11 @@
 
     *Même si votre confiance est acquise, l'éleveur doit accepter de vous présenter les justificatifs des tests et dépistages pratiqués sur les deux parents.*
 
+    -   MDR1 : au moins un des parents est **sain**
     -   Nanisme hypophysaire : au moins un des parents est **sain**
-
-        *Un mariage entre porteurs sains peut produire des chiots atteints.*
-
     -   Myélopathie : au moins un des parents est **sain**
+
+        *Pour la MDR1, Le nanisme hypophysaire, et la myélopathie dégénérative, un mariage entre porteurs (même dits "porteurs sains") peut produire des chiots atteints.*
 
         *Différents laboratoires peuvent pratiquer les tests génétiques. Pour la myélopathie comme pour le nanisme hypophysaire, les notations sur les comptes-rendus de dépistage peuvent varier d'un laboratoire à un autre. En tous les cas, il ne faut pas se contenter d'un certificat établi par l'éleveur.*
 

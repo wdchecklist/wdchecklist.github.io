@@ -30,13 +30,20 @@
 
 ## Je me renseigne sur la santé du chiot {-}
 
--   La stérilisation précoce a-t-elle été faite ?
+-   Si elle était convenue, la stérilisation précoce a-t-elle été faite ?
 -   Y a-t-il eu des maladies dans l'élevage, des soins à poursuivre, des points de santé à surveiller ?
 
     *Même les meilleurs élevages peuvent subir des petits problèmes de maladies. L'important est que les soins vétérinaires aient été apportés, s'il y a des soins à poursuivre, d'en être informé, bien sûr.*
 
 ## Je prépare les démarches indispensables {-}
 
+-   Je me suis rendu à l'adoption avec un moyen de paiement
+-   Je vérifie que j'ai tous les documents du chiot avec moi en partant
+    -   La carte d'identification
+    -   L'attestation de vente
+    -   Le carnet de santé
+    -   Le certificat vétérinaire de bonne santé avant cession
+    -   Le "pedigree provisoire" ou certificat de naissance
 -   Je prévois une enveloppe pour la carte d'identification
 
-    *La carte d'identification est la preuve de l'enregistrement du chien au fichier des puces, qui permet de relier un chien à son propriétaire. Autant prévoir de suite une enveloppe timbrée pour adresser le changement de propriétaire à la SCC.*
+    *La carte d'identification est la preuve de l'enregistrement du chien au fichier des puces, qui permet de relier un chien à son propriétaire. Autant prévoir de suite une enveloppe timbrée pour adresser le changement de propriétaire à l'I-CAD^[fichier national d'identification des carnivores domestiques. Adresse postale : I-CAD,112-114 Avenue Gabriel Péri, 94246 L’Hay-Les-Roses Cedex].*

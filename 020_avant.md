@@ -28,31 +28,7 @@
 
     *Rappelons encore que **le maître est engagé par l'adoption à assurer la santé, la sécurité, le bien-être et l'équilibre de son chien.** Toutefois, le contrat de vente constituera un engagement entre vous et l'éleveur pour atteindre ce but.*
 
-    *Différents engagements peuvent figurer au contrat de vente, en voici quelques exemples. Lisez attentivement les contrats de ventes qui vous sont proposés, et prenez en compte les bénéfices et inconvénients que vous trouvez à chaque engagement. Le cas échéant, ce contrat peut alimenter une conversation avec l'éleveur, qui expliquera les raisons pour lesquelles il prévoit chaque engagement.*
-
-    -   Le maître s'engage à faire stériliser le chien, ou bien, l'éleveur s'engager à faire pratiquer une stérilisation précoce avant l'adoption (pour les chiens destinés à la compagnie).
-
-        *La stérilisation stabilise le caractère du chien, évite des problèmes de santé, et les portées indésirables. C'est une disposition à l'avantage de l'adoptant, car le chien sera vraisemblablement plus facile à vivre. Elle sert également l'éleveur, en protégeant ses lignées d'une reproduction non contrôlée. **Note :** les particuliers ne sont plus autorisés à faire reproduire leurs chiens "à titre privé", selon le code rural et de la pêche maritime - Article L214-6, c'est une activité d'élevage qui doit être déclarée et est soumise à l'impôt comme aux dispositions vétérinaires.[^crpm]*
-
-    -   Le maître s'engage à éduquer le chien, à l'emmener en club d'éducation,
-    -   Le maître s'engage à passer par l'éleveur au cas où il doive se séparer du chien. L'éleveur s'engage à assister le maître dans cette situation.
-
-        *Il y a beaucoup de variations de cet engagement, qui vont de l'aide à trouver un refuge à la reprise du chien (sans remboursement), en passant par la mise en contact avec des familles d'accueil connues de l'éleveur.*
-
-    -   Le maître s'engage à faire reproduire le chien, et à céder la première portée à l'éleveur.
-
-        ***Attention***, *Il s'agit là d'un engagement qui ne protège absolument pas le maître, mais est au bénéfice du seul éleveur. En pratique, le maître est engagé à faire reproduire le chien (dans le cas d'une chienne, d'encadrer la gestation et la mise bas), à en assumer la responsabilité fiscale, et ensuite à céder les chiots --parfois gracieusement-- à l'éleveur, qui n'aura plus qu'à tirer le bénéfice financier. Parfois, en demandant le même engagement aux maîtres de ces chiots.*
-
-        *Ne confondez pas cet engagement avec le "contrat d'élevage", qui peut lui ressembler, mais protège les deux parties.*
-
-    -   L'éleveur s'engage sur l'allure du chien à l'âge adulte.
-
-        *Cet engagement prend son sens pour les chiens destinés aux expositions canines, ou à la reproduction, et n'est donc probablement pas essentiel pour un premier CLT. Il peut couvrir la capacité du chien à être confirmé, la dysplasie et autres "vices rédhibitoires"[^dysp], et définit les éventuelles compensations en cas de défaut du chien.*
-
-[^crpm]: voir également le code rural et de la pêche maritime, Article L215-10 pour les peines encourues.
-[^dysp]: définis l'article R213-2 du code rural et de la pêche maritime.
-
-*Cette liste n'est pas exhaustive, des dispositions plus ou moins rares peuvent être portées au contrat de vente. Qu'une disposition du contrat ne figure pas dans ce document (ou l'inverse) ne signifie pas que l'élevage soit forcément peu fiable. Dans tous les cas, lisez en détail le contrat de vente et parlez-en avec l'éleveur en cas de doute.*
+    *Différents engagements peuvent figurer au contrat de vente. Lisez attentivement les contrats de ventes qui vous sont proposés, et prenez en compte les bénéfices et inconvénients que vous trouvez à chaque engagement. Le cas échéant, ce contrat peut alimenter une conversation avec l'éleveur, qui expliquera les raisons pour lesquelles il prévoit chaque engagement.*
 
 ## Je m'engage, et j'engage l'éleveur sur une portée {-}
 

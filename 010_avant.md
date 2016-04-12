@@ -59,7 +59,7 @@ Chien :\    ______________________________
 ---------- --------------------------------
 
 ### Sur la santé du CLT {-}
-*Comme tous les chiens, les CLT est sujet à des maladies, et des malformations éventuelles, qui peuvent être évitées (ou rendues aussi rares que possible) grâce à une sélection rigoureuse de la part de l'éleveur.*
+*Comme tous les chiens, le CLT est sujet à des maladies, et des malformations éventuelles, qui peuvent être évitées (ou rendues aussi rares que possible) grâce à une sélection rigoureuse de la part de l'éleveur.*
 
 -   Je me renseigne sur la "MD" (Myélopathie Dégénérative).
 
@@ -67,7 +67,7 @@ Chien :\    ______________________________
 
 -   Je me renseigne sur la "MDR1" (sensibilité médicamenteuse).
 
-    *Une anomalie liée au gène "MDR1" chez certains chiens entraîne une sensibilité extreme à certains médicaments. Cette anomalie est génétique et dépistable. Elle peut donc être évitée par la sélection des reproducteurs.*
+    *Une anomalie liée au gène "MDR1" chez certains chiens entraîne une sensibilité extrême à certains médicaments. Cette anomalie est génétique et dépistable. Elle peut donc être évitée par la sélection des reproducteurs.*
 
 *   Je me renseigne sur la "Dysplasie" et sur les précautions à prendre pendant la croissance du chien.
 
@@ -87,7 +87,7 @@ Chien :\    ______________________________
 *Il existe plusieurs types de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois types sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*
 
 -   Je sais lesquels de ces chiens-loups sont reconnus par les autorités officielles,
--   Je sais le but premier du CLT, et en quoi la sélection a été différente pour le CLS,
+-   Je sais le but premier du CLT, et en quoi la sélection a été différente pour le CLS.
 
 ## Je me renseigne sur le monde du chien {-}
 
@@ -113,7 +113,7 @@ Adresse :   ____________________________
 
 -   Je sais ce qu'est un pedigree,
 
--   Je me renseigne sur le rôle du club de race,
+-   Je me renseigne sur le rôle du club de race.
 
     *Le club de race dont dépend la race CLT est le [CBEI](http://www.cbei.fr), "Club des bergers de l'est et Italiens", qui s'intéresse à une vingtaine de races de chiens de berger.*
 

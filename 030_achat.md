@@ -20,7 +20,7 @@
     -   Les numéros d'identification et les noms correspondent,
     -   À défaut, les deux parents dont identifiés et leurs numéros d'identification sont portés au pedigree,
 
-        *Pour diverses raisons, certains éleveurs ne pratiquent pas systématiquement les tests de filiation sur les chiots à la naissance. Cela ne pose pas de problème, à condition que les informations génétiques des parents soient connues, pour que le test puisse être fait par le maître en cas de besoin.*
+        *Pour diverses raisons, certains éleveurs ne pratiquent pas systématiquement les tests de filiation sur les chiots à la naissance. Même si l'empreinte génétique des parents est enregistrée, il sera impossible ensuite de faire le test de filiation sans l'accord du propriétaire des parents. En cas de litige, ce sera très compliqué. Si le test de filiation n'est pas fait, n'hésitez pas à demander à remplir avec lui [le formulaire de demande de test de filiation](http://www.scc.asso.fr/Formulaires-telechargeables,656) avant d'acquérir le chiot, ou à vous rétracter.*
 -   Le contrat de vente correspond à ce qui a été convenu,
 
     *Par erreur ou par malveillance, le contrat de vente peut vous engager sur des éléments que vous n'avez pas convenu avec l'éleveur (obligation de céder une portée, de participer à des expositions). C'est le dernier moment pour vérifier le contrat de vente qui vous engagera devant la loi.*

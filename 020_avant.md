@@ -8,11 +8,11 @@
 
 *De nombreux critères permettent de distinguer les meilleurs élevages, en voici quelques-uns.*
 
--   L'élevage m'informe en transparence
+-   L'élevage m'informe en transparence,
 
-    *Tous les élevages ne font pas tous les tests possibles (nanisme hypophysaire, etc.) sur le plan génétique. Mais un élevage qui n'informe pas ouvertement sur les tests qu'il a choisi de faire ou les précautions qu'il prend devrait être pris avec méfiance. Alors qu'un élevage qui annonce ouvertement que le test n'est pas fait a au moins la franchise de montrer ses faiblesses et d'informer des risques*
+    *Tous les élevages ne font pas tous les tests possibles (nanisme hypophysaire, etc.) sur le plan génétique. Mais un élevage qui n'informe pas ouvertement sur les tests qu'il a choisi de faire ou les précautions qu'il prend devrait être pris avec méfiance. Alors qu'un élevage qui annonce ouvertement que le test n'est pas fait a au moins la franchise de montrer ses faiblesses et d'informer des risques.*
 
--   Le discours de l'éleveur est axé sur le chien et notre adéquation
+-   Le discours de l'éleveur est axé sur le chien et notre adéquation.
 
     *Le bonheur d'un chien et de son maître dépend de l'adéquation du maître avec la race, le tempérament du chien. Un éleveur consciencieux essaiera (plus ou moins subtilement) de vérifier que vous avez l'énergie, la motivation et la patience pour prendre en charge l'épanouissement d'un CLT.*
 
@@ -20,11 +20,11 @@
 
     *Il très important que toutes les précautions soient prises pour que les chiots aient le plus de chances possibles de rendre leur famille heureuse et d'être eux-mêmes heureux et en bonne santé. L'allure du CLT ne peut pas être le seul critère, un éleveur responsable prend en compte la santé des reproducteurs pour produire des chiots qui ont aussi peu de chances que possible de poser des problèmes de santé par la suite.*
 
--   L'élevage prend en compte la possibilité d'un échec
+-   L'élevage prend en compte la possibilité d'un échec,
 
     *Dès le jour de l'adoption, **le maître est seul responsable de son chien**, de son bien-être, de sa santé, et de son équilibre. Toutefois, les éleveurs les plus sérieux peuvent vous aider par la suite : il vous conseilleront sur l'éducation du chien, et parfois même vous assisteront pour replacer le chien, si vous échouez.*
 
--   Les contrats proposés protègent l'élevage et me protègent
+-   Les contrats proposés protègent l'élevage et me protègent,
 
     *Rappelons encore que **le maître est engagé par l'adoption à assurer la santé, la sécurité, le bien-être et l'équilibre de son chien.** Toutefois, le contrat de vente constituera un engagement entre vous et l'éleveur pour atteindre ce but.*
 
@@ -34,7 +34,7 @@
 
         *La stérilisation stabilise le caractère du chien, évite des problèmes de santé, et les portées indésirables. C'est une disposition à l'avantage de l'adoptant, car le chien sera vraisemblablement plus facile à vivre. Elle sert également l'éleveur, en protégeant ses lignées d'une reproduction non contrôlée. **Note :** les particuliers ne sont plus autorisés à faire reproduire leurs chiens "à titre privé", selon le code rural et de la pêche maritime - Article L214-6, c'est une activité d'élevage qui doit être déclarée et est soumise à l'impôt comme aux dispositions vétérinaires.[^crpm]*
 
-    -   Le maître s'engage à éduquer le chien, à l'emmener en club d'éducation
+    -   Le maître s'engage à éduquer le chien, à l'emmener en club d'éducation,
     -   Le maître s'engage à passer par l'éleveur au cas où il doive se séparer du chien. L'éleveur s'engage à assister le maître dans cette situation.
 
         *Il y a beaucoup de variations de cet engagement, qui vont de l'aide à trouver un refuge à la reprise du chien (sans remboursement), en passant par la mise en contact avec des familles d'accueil connues de l'éleveur.*
@@ -66,9 +66,9 @@
 
     *Même si votre confiance est acquise, l'éleveur doit accepter de vous présenter les justificatifs des tests et dépistages pratiqués sur les deux parents.*
 
-    -   MDR1 : au moins un des parents est **sain**
-    -   Nanisme hypophysaire : au moins un des parents est **sain**
-    -   Myélopathie : au moins un des parents est **sain**
+    -   MDR1 : au moins un des parents est **sain**,
+    -   Nanisme hypophysaire : au moins un des parents est **sain**,
+    -   Myélopathie : au moins un des parents est **sain**,
 
         *Pour la MDR1, Le nanisme hypophysaire, et la myélopathie dégénérative, un mariage entre porteurs (même dits "porteurs sains") peut produire des chiots atteints.*
 
@@ -86,16 +86,16 @@
 
 *L'arrivée du chien est à ce stade une certitude. Il est temps de préparer sa venue, qui surviendra en principe dans les mois à venir.*
 
--   Je prévois et je modifie l'aménagement intérieur et extérieur
+-   Je prévois et je modifie l'aménagement intérieur et extérieur,
 
     *Beaucoup conseillent de prévoir dès le jeune âge du chien un chenil, à défaut une cage solide et spacieuse pour le chien, dans lequel il sera tranquille et laissera à ses maître un peu de temps pour respirer. C'est le moment de prévoir de tels aménagements, de choisir la place où installer le panier ou le tapis également, à tête reposée avant la "tempête".*
 
     *La clôture du jardin peut également être vérifiée (et améliorée si besoin), pour s'éviter l'expérience désagréable d'une fugue.*
 
--   Je pose les règles de vie
+-   Je pose les règles de vie,
 
     *Pour l'équilibre d'un CLT, il est préférable que les règles de vie ne varient pas. En prévoir au moins les grandes lignes à l'avance (heure des repas, quand on interagit avec lui ou non, etc.) et se mettre d'accord avec tous les habitants de la maison. C'est aussi le moment de préparer les enfants aux nouvelles règles qui s'appliqueront dès l'arrivée du chien.*
 
--   Je prépare mon emploi du temps
+-   Je prépare mon emploi du temps,
 
     *Dans les premiers mois, tout l'apprentissage que fera le chiot est structurant : il porte ses fruits sur la vie entière du chien. Dans la plupart des cas, un atout important pour cela est de se rendre régulièrement en club canin pour travailler avec le chiot sur sa socialisation, son attention et son éducation. Avant d'accueillir le chiot, prévoir le (ou les) créneau(x) hebdomadaire(s) et décider quel membre de la famille participera à ces activités.*

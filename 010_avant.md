@@ -1,6 +1,7 @@
 Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'est pas une décision à prendre à la légère. Pour vous aider à en oublier le moins possible dans cette aventure qui vous engagera pour des années de vie avec votre chien, voici un petit aide-mémoire des choses les plus importantes à ne pas oublier, au fur et à mesure.
 
-*Des bribes d'informations sont données en italique au long de ce document. Il s'agit en général du minimum pour justifier de se renseigner, ce document n'est pas exhaustif, loin de là !*
+*Quelques informations sont données en italique au long de ce document. Il s'agit en général du minimum pour justifier de se renseigner, ce document n'est pas exhaustif, loin de là !*
+
 
 # Longtemps à l'avance (un an au moins)
 
@@ -16,25 +17,25 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
     *Chaque CLT, et chaque maître, ont leur particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
 
 ---------- ------------------------------
-Maître :\   ____________________________\
-Élevage :\  ____________________________\
-Chien :\    ____________________________\
-
-Maître :\   ____________________________\
-Élevage :\  ____________________________\
-Chien :\    ____________________________\
-
-Maître :\   ____________________________\
-Élevage :\  ____________________________\
-Chien :\    ____________________________\
-
-Maître :\   ____________________________\
-Élevage :\  ____________________________\
-Chien :\    ____________________________\
-
-Maître :\   ____________________________\
-Élevage :\  ____________________________\
-Chien :\    ____________________________\
+Maître :\   ____________________________
+Élevage :\  ____________________________
+Chien :\    ____________________________
+                     
+Maître :\   ____________________________
+Élevage :\  ____________________________
+Chien :\    ____________________________
+                     
+Maître :\   ____________________________
+Élevage :\  ____________________________
+Chien :\    ____________________________
+                     
+Maître :\   ____________________________
+Élevage :\  ____________________________
+Chien :\    ____________________________
+                     
+Maître :\   ____________________________
+Élevage :\  ____________________________
+Chien :\    ____________________________
 ---------- ------------------------------
 
 -   J'ai pris contact et rendu visite à plusieurs élevages pour m'informer.
@@ -43,11 +44,19 @@ Chien :\    ____________________________\
 
     *Ces visites doivent être uniquement des "prises de contact" pour s'informer ! Pour ne pas être tenté de s'engager trop tôt, il est prudent de ne prendre avec soi aucun moyen de règlement --pour le moment--.*
 
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
-    *   Élevage : ________________________
+
+---------- ------------------------------
+Élevage :   ________________________
+                 
+Élevage :   ________________________
+                 
+Élevage :   ________________________
+                 
+Élevage :   ________________________
+                 
+Élevage :   ________________________
+                 
+---------- ------------------------------
 
 ### Sur la santé du CLT {-}
 *Comme tous les chiens, les CLT est sujet à des maladies, et des malformations éventuelles, qui peuvent être évitées (ou rendues aussi rares que possible) grâce à une sélection rigoureuse de la part de l'éleveur.*
@@ -55,6 +64,10 @@ Chien :\    ____________________________\
 -   Je me renseigne sur la "MD" (Myélopathie Dégénérative).
 
     *La MD est une paralysie évolutive (comme la myopathie de l'homme) qui se déclenche souvent à partir du train arrière et ne peut pas être soignée. Elle est entièrement d'origine génétique, peut être dépistée de façon fiable, et évitée par la sélection des reproducteurs*
+
+-   Je me renseigne sur la "MDR1" (sensibilité médicamenteuse).
+
+    *Une anomalie liée au gène "MDR1" chez certains chiens entraîne une sensibilité extreme à certains médicaments. Cette anomalie est génétique et dépistable. Elle peut donc être évitée par la sélection des reproducteurs.*
 
 *   Je me renseigne sur la "Dysplasie" et sur les précautions à prendre pendant la croissance du chien.
 
@@ -77,16 +90,16 @@ Chien :\    ____________________________\
 
     *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT).*
 
-    -   Club :__________________
-
-        Adresse :__________________
-    -   Club :__________________
-
-        Adresse :__________________
-
-    -   Club :__________________
-
-        Adresse :__________________
+---------- ------------------------------
+Club :      ____________________________
+Adresse :   ____________________________
+ 
+Club :      ____________________________
+Adresse :   ____________________________
+ 
+Club :      ____________________________
+Adresse :   ____________________________
+---------- ------------------------------
 
 -   Je m'informe auprès de mon vétérinaire sur :
     -   L'identification par puce,

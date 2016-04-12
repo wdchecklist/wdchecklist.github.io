@@ -18,7 +18,7 @@ cl.html :  $(IMGS) $(DOTS) $(MDS)
 
 # Pattern rules
 %.pdf : %.md
-	pandoc --smart --filter pandoc-citeproc -No $@ $<
+	pandoc --smart --latex-engine=xelatex --filter pandoc-citeproc -No $@ $<
 
 %.png : %.dot
 	dot -Tpng $< > $@

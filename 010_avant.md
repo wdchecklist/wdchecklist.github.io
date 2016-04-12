@@ -16,27 +16,27 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
     *Chaque CLT, et chaque maître, ont leur particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
 
----------- ------------------------------
-Maître :\   ____________________________
-Élevage :\  ____________________________
-Chien :\    ____________________________
+---------- --------------------------------
+Maître :\   ______________________________
+Élevage :\  ______________________________
+Chien :\    ______________________________
                      
-Maître :\   ____________________________
-Élevage :\  ____________________________
-Chien :\    ____________________________
+Maître :\   ______________________________
+Élevage :\  ______________________________
+Chien :\    ______________________________
                      
-Maître :\   ____________________________
-Élevage :\  ____________________________
-Chien :\    ____________________________
+Maître :\   ______________________________
+Élevage :\  ______________________________
+Chien :\    ______________________________
                      
-Maître :\   ____________________________
-Élevage :\  ____________________________
-Chien :\    ____________________________
+Maître :\   ______________________________
+Élevage :\  ______________________________
+Chien :\    ______________________________
                      
-Maître :\   ____________________________
-Élevage :\  ____________________________
-Chien :\    ____________________________
----------- ------------------------------
+Maître :\   ______________________________
+Élevage :\  ______________________________
+Chien :\    ______________________________
+---------- --------------------------------
 
 -   J'ai pris contact et rendu visite à plusieurs élevages pour m'informer.
 
@@ -45,18 +45,18 @@ Chien :\    ____________________________
     *Ces visites doivent être uniquement des "prises de contact" pour s'informer ! Pour ne pas être tenté de s'engager trop tôt, il est prudent de ne prendre avec soi aucun moyen de règlement --pour le moment--.*
 
 
----------- ------------------------------
-Élevage :   ________________________
+---------- --------------------------------
+Élevage :   ______________________________
                  
-Élevage :   ________________________
+Élevage :   ______________________________
                  
-Élevage :   ________________________
+Élevage :   ______________________________
                  
-Élevage :   ________________________
+Élevage :   ______________________________
                  
-Élevage :   ________________________
+Élevage :   ______________________________
                  
----------- ------------------------------
+---------- --------------------------------
 
 ### Sur la santé du CLT {-}
 *Comme tous les chiens, les CLT est sujet à des maladies, et des malformations éventuelles, qui peuvent être évitées (ou rendues aussi rares que possible) grâce à une sélection rigoureuse de la part de l'éleveur.*

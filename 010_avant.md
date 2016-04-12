@@ -63,7 +63,7 @@ Chien :\    ____________________________
 
 -   Je me renseigne sur la "MD" (Myélopathie Dégénérative).
 
-    *La MD est une paralysie évolutive (comme la myopathie de l'homme) qui se déclenche souvent à partir du train arrière et ne peut pas être soignée. Elle est entièrement d'origine génétique, peut être dépistée de façon fiable, et évitée par la sélection des reproducteurs*
+    *La MD est une paralysie évolutive (comme la myopathie de l'homme) qui se déclenche souvent à partir du train arrière et ne peut pas être soignée. Elle est entièrement d'origine génétique, peut être dépistée de façon fiable, et évitée par la sélection des reproducteurs.*
 
 -   Je me renseigne sur la "MDR1" (sensibilité médicamenteuse).
 
@@ -79,14 +79,20 @@ Chien :\    ____________________________
 
     *L'hypophyse produit l'hormone de croissance. Le nanisme hypophysaire est une défaillance de l'hypophyse qui cause de multiples problèmes de santé liés à la croissance et au développement du chien. Elle est entièrement d'origine génétique, peut être dépistée de façon fiable, et évitée par la sélection des reproducteurs.*
 
--   Je m'informe auprès de mon vétérinaire sur l'intérêt de la stérilisation
+-   Je m'informe auprès de mon vétérinaire sur l'intérêt de la stérilisation.
 
     *Beaucoup croient encore --à tort-- qu'il convient de faire faire des petits à son chien pour qu'il soit en bonne santé. C'est faux, un chien stérilisé n'a aucun problème de santé s'il n'a jamais reproduit. Le meilleur interlocuteur à ce sujet reste votre vétérinaire. (S'il vous déconseille la stérilisation, demandez lui ses raisons !)*
 
+### Et sur les chiens-loups en général {-}
+*Il existe plusieurs types de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois types sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*
+
+-   Je sais lesquels de ces chiens-loups sont reconnus par les autorités officielles,
+-   Je sais le but premier du CLT, et en quoi la sélection a été différente pour le CLS,
+
 ## Je me renseigne sur le monde du chien {-}
 
--   Je sais comment un chien obtient sa confirmation et ce que cela représente
--   Je trouve et je rend visite à quelques clubs canins près de chez moi
+-   Je sais comment un chien obtient sa confirmation et ce que cela représente,
+-   Je trouve et je rend visite à quelques clubs canins près de chez moi,
 
     *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT).*
 
@@ -103,19 +109,13 @@ Adresse :   ____________________________
 
 -   Je m'informe auprès de mon vétérinaire sur :
     -   L'identification par puce,
-    -   Le carnet de santé Européen
+    -   Le carnet de santé Européen.
 
--   Je sais ce qu'est un pedigree.
+-   Je sais ce qu'est un pedigree,
 
--   Je me renseigne sur le rôle du club de race
+-   Je me renseigne sur le rôle du club de race,
 
     *Le club de race dont dépend la race CLT est le [CBEI](http://www.cbei.fr), "Club des bergers de l'est et Italiens", qui s'intéresse à une vingtaine de races de chiens de berger.*
-
-### Et sur les chiens-loups en général {-}
-*Il existe plusieurs types de chien-loups avec leurs particularités, le CLS (Chien-Loup de Saarloos), le CLT (Chien-Loup Tchécoslovaque), et le AWD (American Wolf Dog). Ces trois types sont différentes par bien des aspects, un brin d'information sur ces trois types de chiens-loups permet souvent de lever des incompréhensions.*
-
--   Je sais lesquels de ces chiens-loups sont reconnus par les autorités officielles
--   Je sais le but premier du CLT, et en quoi la sélection a été différente pour le CLS
 
 
 ## Je me renseigne sur les conditions quand j'acquiers un chien {-}

@@ -2,6 +2,8 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
 *Quelques informations sont données en italique au long de ce document. Il s'agit en général du minimum pour commencer de se renseigner, ce document n'est pas exhaustif, loin de là !*
 
+Les conseils donnés dans ce document ne sont pas spécifiques au CLT, et dans un monde parfait devrait s'appliquer à tous les propriétaires de chiens. Malheureusement très peu attendent et se renseignent en avance. Nous espérons qu'à force de lire des documents leur proposant de réfléchir avant de prendre le chien cela s'améliore.^[Paraphrasé et retranscris de l'avis d'un vétérinaire comportementaliste au sujet de ce document]
+
 
 # Longtemps à l'avance (un an au moins)
 

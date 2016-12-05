@@ -18,7 +18,7 @@
 -   Ce sont bien les parents du chiot qui figurent sur tous ses papiers,
 -   Le test de filiation ADN est fait,
     -   Les numéros d'identification et les noms correspondent,
-    -   À défaut, les deux parents dont identifiés et leurs numéros d'identification sont portés au pedigree,
+    -   À défaut, les deux parents sont identifiés et leurs numéros d'identification sont portés au pedigree,
 
         *Pour diverses raisons, certains éleveurs ne pratiquent pas systématiquement les tests de filiation sur les chiots à la naissance. Même si l'empreinte génétique des parents est enregistrée, il sera impossible ensuite de faire le test de filiation sans l'accord du propriétaire des parents. En cas de litige, ce sera très compliqué. Si le test de filiation n'est pas fait, n'hésitez pas à demander à remplir avec lui [le formulaire de demande de test de filiation](http://www.scc.asso.fr/Formulaires-telechargeables,656) avant d'acquérir le chiot, ou à vous rétracter.*
 -   Le contrat de vente correspond à ce qui a été convenu,
@@ -46,4 +46,4 @@
     -   Le "pedigree provisoire" ou certificat de naissance,
 -   Je prévois une enveloppe pour la carte d'identification.
 
-    *La carte d'identification est la preuve de l'enregistrement du chien au fichier des puces, qui permet de relier un chien à son propriétaire. Autant prévoir de suite une enveloppe timbrée pour adresser le changement de propriétaire à l'I-CAD^[fichier national d'identification des carnivores domestiques. Adresse postale : I-CAD,112-114 Avenue Gabriel Péri, 94246 L’Hay-Les-Roses Cedex].*
+    *La carte d'identification est la preuve de l'enregistrement du chien au fichier des puces, qui permet de relier un chien à son propriétaire. Autant prévoir tout de suite une enveloppe timbrée pour adresser le changement de propriétaire à l'I-CAD^[fichier national d'identification des carnivores domestiques. Adresse postale : I-CAD,112-114 Avenue Gabriel Péri, 94246 L’Hay-Les-Roses Cedex].*

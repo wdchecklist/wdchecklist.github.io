@@ -1,6 +1,6 @@
 Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'est pas une décision à prendre à la légère. Pour vous aider à en oublier le moins possible dans cette aventure qui vous engagera pour des années de vie avec votre chien, voici un petit aide-mémoire des choses les plus importantes à ne pas oublier, au fur et à mesure.
 
-*Quelques informations sont données en italique au long de ce document. Il s'agit en général du minimum pour justifier de se renseigner, ce document n'est pas exhaustif, loin de là !*
+*Quelques informations sont données en italique au long de ce document. Il s'agit en général du minimum pour commencer de se renseigner, ce document n'est pas exhaustif, loin de là !*
 
 
 # Longtemps à l'avance (un an au moins)
@@ -14,7 +14,7 @@ Faire le choix d'accueillir un **C**hien **L**oup **T**chécoslovaque (CLT) n'es
 
 -   Je me suis rapproché de plusieurs propriétaires de CLT issus de différents élevages pour en parler avec eux.
 
-    *Chaque CLT, et chaque maître, ont leur particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
+    *Chaque CLT, et chaque maître, ont leurs particularités. Rencontrer plusieurs maîtres et plusieurs chiens permet de se faire une idée plus fidèle de ce que peuvent être les CLT*
 
 ---------- --------------------------------
 Maître :\   ______________________________
@@ -71,7 +71,7 @@ Chien :\    ______________________________
 
 *   Je me renseigne sur la "Dysplasie" et sur les précautions à prendre pendant la croissance du chien.
 
-    *Les dysplasies du coude et de la hanche sont héréditaires, et peuvent contribuer à des douleurs articulaires chez le chien au fil du temps. Elle ne peut pas être dépistée de façon fiable à la naissance, mais des radios de dépistage permettent de sélectionner les reproducteurs qui ont le moins de chances de transmettre la dysplasie.*
+    *Les dysplasies du coude et de la hanche sont en partie héréditaires^[la part héréditaire est plus faible sur la dysplasie de la hanche que sur celle du coude], et peuvent contribuer à des douleurs articulaires chez le chien au fil du temps. Elles ne peuvent pas être dépistée de façon fiable à la naissance, mais des radios de dépistage permettent de sélectionner les reproducteurs qui ont le moins de chances de transmettre la dysplasie.*
 
     *Il est aussi de la responsabilité du maître de protéger les articulations pendant la croissance du chiot, en lui évitant les efforts excessifs, par exemple.*
 

@@ -91,10 +91,10 @@ Chien :\    ______________________________
 
 ## Je me renseigne sur le monde du chien {-}
 
--   Je sais comment un chien obtient sa confirmation et ce que cela représente,
+-   Je sais comment un chien obtient sa confirmation^[Les séances de confirmations sont annoncées sur le site cedia.fr] et ce que cela représente,
 -   Je trouve et je rend visite à quelques clubs canins près de chez moi,
 
-    *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT).*
+    *Le CLT est avant tout un chien de travail. Certains arrivent à s'en passer, mais faire une activité régulière avec un CLT aide souvent à le stabiliser. Par ailleurs, un ou des moniteurs ouverts à la discussion pourront vous aider à mieux comprendre votre futur chien (S'ils ne sont pas enfermés dans des méthodes trop rigides pour le CLT -- quoique de toutes façons, les méthodes coercitives sont à éviter quelle que soit la race).*
 
 ---------- ------------------------------
 Club :      ____________________________
@@ -119,5 +119,7 @@ Adresse :   ____________________________
 
 
 ## Je me renseigne sur les conditions quand j'acquiers un chien {-}
+
+Il s'agit là des conditions "de vente", au sens commercial, comme des conditions d'élevage.
 
 *La loi française ne prévoit que peu d'engagement lors de la vente d'un chien, c'est pourquoi bon nombre d'éleveurs prévoient des clauses complémentaires dans les contrats de vente.*

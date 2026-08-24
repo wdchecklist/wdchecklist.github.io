@@ -1,0 +1,48 @@
+name: Build Checklist (HTML & PDF)
+
+on:
+  push:
+    branches:
+      - master
+      - main
+  pull_request:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    name: Build HTML and PDF
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            make \
+            pandoc \
+            texlive-latex-base \
+            texlive-fonts-recommended \
+            texlive-extra-utils \
+            texlive-latex-extra \
+            wkhtmltopdf
+
+      - name: Run Makefile build
+        run: |
+          make
+
+      - name: Upload HTML and PDF artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: generated-checklist
+          path: |
+            *.html
+            *.pdf

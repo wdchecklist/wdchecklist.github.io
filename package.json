@@ -1,17 +1,13 @@
 {
   "name": "wdchecklist",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "private": true,
-  "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:preview": "vitepress preview docs",
-    "build:pdf": "node scripts/generate-pdf.js",
-    "build": "vitepress build docs && node scripts/generate-pdf.js"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.42.1",
-    "vitepress": "^1.0.0-rc.44"
+    "vitepress": "^1.6.3"
   }
 }

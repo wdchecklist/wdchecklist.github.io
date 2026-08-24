@@ -1,12 +1,14 @@
-name: Build & Deploy VitePress
+name: Deploy VitePress site to Pages
 
 on:
   push:
     branches:
       - master
+      - feature/modernize-with-vitepress
   pull_request:
     branches:
       - master
+      - feature/modernize-with-vitepress
   workflow_dispatch:
 
 permissions:
@@ -32,33 +34,23 @@ jobs:
         with:
           node-version: 20
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
       - name: Install dependencies
         run: npm install
 
       - name: Build with VitePress
         run: npm run docs:build
 
-      - name: Upload Pages artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: docs/.vitepress/dist
-
-      - name: Upload preview artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: vitepress-preview
-          path: docs/.vitepress/dist
-          retention-days: 7
+          path: .vitepress/dist
 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     needs: build
-    if: github.ref == 'refs/heads/master' && github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
     runs-on: ubuntu-latest
     name: Deploy
     steps:
